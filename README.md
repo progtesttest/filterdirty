@@ -1,3 +1,3 @@
 # filterdirty
 c++ filterdirty dirtywords
-256 tre
+256 tree
